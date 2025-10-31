@@ -1,0 +1,9 @@
+.product_s{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 40px;
+    padding: 40px;
+    background-color: gray;
+    height: 200px;
+}
